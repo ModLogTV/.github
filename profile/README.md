@@ -1,6 +1,6 @@
-# SpreuTracker
+# ModLog
 
-SpreuTracker is a project aimed at enhancing the moderation and interaction capabilities for Twitch streamer and influencer teams. Please note that while the code remains private, the project is intended for use by registered users who can utilize the provided bots and services.
+ModLog is a project aimed at enhancing the moderation and interaction capabilities for Twitch streamer and influencer teams. Please note that while the code remains private, the project is intended for use by registered users who can utilize the provided bots and services.
 
 ## Table of Contents
 
@@ -12,7 +12,7 @@ SpreuTracker is a project aimed at enhancing the moderation and interaction capa
 
 ## Overview
 
-SpreuTracker is a set of tools designed to provide advanced moderation and interaction features tailored to the needs of Twitch moderator teams.
+ModLog is a set of tools designed to provide advanced moderation and interaction features tailored to the needs of Twitch moderator teams.
 
 ## Features
 
