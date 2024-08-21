@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.modlog.tv">
-    <img src="https://i.imgur.com/1uNeNwP.png">
+    <img src="https://i.imgur.com/kxO5kop.png">
   </a>
 </p>
 
