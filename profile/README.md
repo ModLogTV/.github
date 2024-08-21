@@ -4,10 +4,6 @@
   </a>
 </p>
 
-<a href="https://github.com/modlogtv/twitch" rel="nofollow">
-  <img src="https://img.shields.io/github/stars/modlogtv/twitch" alt="Stars">
-</a>
-
 <a href="https://github.com/ModLogTV/twitch/blob/main/LICENSE">
   <img src="https://img.shields.io/badge/license-Unlicense-blue.svg">
 </a>
