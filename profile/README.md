@@ -17,7 +17,7 @@ ModLog is a project aimed at enhancing the moderation and interaction capabiliti
 [Dashboard](https://www.modlog.tv) &centerdot;
  [Twitch](https://www.twitch.tv/modlogtv) &centerdot;
  [Twitter](https://www.twitter.com/modlogtv) &centerdot;
- [Patreon](https://www.patreon.com/modlog) &centerdot;
+ [Patreon](https://www.patreon.com/modlog)
 
 ### License
 
