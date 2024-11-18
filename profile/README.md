@@ -1,28 +1,13 @@
-<p align="center">
-  <a href="https://www.modlog.tv">
-    <img src="https://i.imgur.com/kxO5kop.png">
-  </a>
-</p>
+# ModLog 
 
-<a href="https://github.com/ModLogTV/twitch/blob/main/LICENSE">
-  <img src="https://img.shields.io/badge/license-Unlicense-blue.svg">
-</a>
-
-<br />
-<br />
+![ModLog banner](https://i.ibb.co/JxxVMWz/chrome-o-Ucie-Wqu-UT.png)
 
 ModLog is a project aimed at enhancing the moderation and interaction capabilities of Twitch streamer and influencer teams. Please note that while the code remains private, the project is intended for use by registered users who can utilize the provided bots and services.
 
-### Resources
-[Dashboard](https://www.modlog.tv) &centerdot;
- [Twitch](https://www.twitch.tv/modlogtv) &centerdot;
- [Twitter](https://www.twitter.com/modlogtv) &centerdot;
- [Patreon](https://www.patreon.com/modlog)
+## 🏗️ Stack
 
-### License
+This project uses a wide variety of external tools and packages. This list briefly shows how our product operates and handles the user scale.
 
-This project is not open-source, and the code is kept private. It is intended for registered users to utilize the provided bots and services. Unauthorized use or distribution of this project is prohibited.
-
----
-
-**Disclaimer**: This project is intended for registered users to enhance the streaming experience for specific Twitch channels and is not officially affiliated with any streamer, influencer, or Trymacs. 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=typescript,postgres,redis,kafka,docker,linux,nextjs,tailwind,nestjs,discordjs,bun" />
+</p>
