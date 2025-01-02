@@ -9,5 +9,5 @@ ModLog is a project aimed at enhancing the moderation and interaction capabiliti
 This project uses a wide variety of external tools and packages. This list briefly shows how our product operates and handles the user scale.
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=typescript,postgres,redis,kubernetes,kafka,docker,linux,nextjs,tailwind,nestjs,discordjs,bun" />
+  <img src="https://skillicons.dev/icons?i=typescript,postgres,redis,kubernetes,docker,kafka,linux,nextjs,tailwind,nestjs,discordjs,bun" />
 </p>
