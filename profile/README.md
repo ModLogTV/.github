@@ -1,6 +1,6 @@
 # ModLog 
 
-![ModLog banner](https://i.ibb.co/PsrcrMzP/509237158-9a21b8c6-27c9-436a-9046-f504472565f8.png)
+![ModLog banner](https://automod.xyz/api/v1/images/690dff5d27d8e2dfd8d7c394)
 
 ModLog is a project aimed at enhancing the moderation and interaction capabilities of Twitch streamer and influencer teams. Please note that while the code remains private, the project is intended for use by registered users who can utilize the provided bots and services.
 
